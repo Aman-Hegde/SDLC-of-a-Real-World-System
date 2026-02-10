@@ -14,28 +14,28 @@ This repository includes the complete project documentation submitted as part of
 
 # Repository Structure
 
-**Initial Report:**  
+**1.Initial Report:**  
 Contains the initial draft of the SDLC analysis prepared during the early phase of the project. This version reflects the preliminary study before detailed revisions and improvements.  
 (File: *Initial Document Task1.docx*)
 
-**Final Report:**  
+**1.Final Report:**  
 Contains the revised and finalized version of the project after incorporating improvements in requirement analysis, SDLC model comparison, and overall documentation quality. This version is intended for final evaluation and submission.  
 (Files: *Final Document Task1.docx* and *DB_report_Final Document Task1.pdf*)
 
 
 # Files Included
 
-- DB_report_Final Document Task1.pdf – Final project report (PDF)
-- Final Document Task1.docx – Final project report (Word)
-- Initial Document Task1.docx – Initial draft version (Word)
+-DB_report_Final Document Task1.pdf – Final project report (PDF)
+-Final Document Task1.docx – Final project report (Word)
+-Initial Document Task1.docx – Initial draft version (Word)
 
 
 
 # Project Objectives
 
-- To analyze a real-world healthcare system using SDLC concepts  
-- To compare SDLC models such as Waterfall, Incremental, and Spiral  
-- To study requirements engineering and risk management in healthcare systems  
+-To analyze a real-world healthcare system using SDLC concepts  
+-To compare SDLC models such as Waterfall, Incremental, and Spiral  
+-To study requirements engineering and risk management in healthcare systems  
 
 
 
@@ -47,23 +47,22 @@ This project is created strictly for **academic purposes** and follows instituti
 
 # Contributions & Feedback
 
-For feedback or improvements, feel free to open an issue or submit a pull request.  
-All suggestions and contributions are appreciated. You may also contact the author for further details.
+-For feedback or improvements, open an issue or submit a pull request.
+-We appreciate all contributions. Contact us for more details.
 
 
 
 # Contact
 
-For any questions or clarifications related to this project, please reach out using the details below:
+For any questions or clarifications, feel free to reach out:
 
-**Author:** Aman Hegde (NNM24IS019)  
+-**Author:** Aman Hegde (NNM24IS019)  
+-**Mentor:**  
+  Dr. Jason Elroy Martis  
+  Associate Professor  
+  Department of Information Science and Technology  
+  NMAM Institute of Technology, Nitte, Karnataka, India  
 
-**Mentor:**  
-Dr. Jason Elroy Martis  
-Associate Professor  
-Department of Information Science and Technology  
-NMAM Institute of Technology, Nitte, Karnataka, India  
-
-📧 **Email:** amanhegde2020@gmail.com
-📌 **GitHub Profile:** Aman-Hegde
+-📧 **Email:** amanhegde2020@gmail.com  
+-📌 **GitHub Profile:** Aman-Hegde
 
