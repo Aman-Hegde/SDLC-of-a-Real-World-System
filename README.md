@@ -5,34 +5,31 @@ This repository contains the academic project report titled **“SDLC Analysis o
 
 The study focuses on understanding requirement analysis, risk management, scalability, and regulatory compliance in healthcare software systems.
 
----
 
 # Repository Overview
 
 This repository includes the complete project documentation submitted as part of the  
 **B.Tech – Information Science and Engineering** curriculum.
 
----
 
 # Repository Structure
 
-**Initial Report**  
+**Initial Report:**  
 Contains the initial draft of the SDLC analysis prepared during the early phase of the project. This version reflects the preliminary study before detailed revisions and improvements.  
 (File: *Initial Document Task1.docx*)
 
-**Final Report**  
+**Final Report:**  
 Contains the revised and finalized version of the project after incorporating improvements in requirement analysis, SDLC model comparison, and overall documentation quality. This version is intended for final evaluation and submission.  
 (Files: *Final Document Task1.docx* and *DB_report_Final Document Task1.pdf*)
 
----
 
 # Files Included
 
 - DB_report_Final Document Task1.pdf – Final project report (PDF)
 - Final Document Task1.docx – Final project report (Word)
-- Initial Document Task1.docx – Initial draft version
+- Initial Document Task1.docx – Initial draft version (Word)
 
----
+
 
 # Project Objectives
 
@@ -40,20 +37,20 @@ Contains the revised and finalized version of the project after incorporating im
 - To compare SDLC models such as Waterfall, Incremental, and Spiral  
 - To study requirements engineering and risk management in healthcare systems  
 
----
+
 
 # Academic Declaration
 
 This project is created strictly for **academic purposes** and follows institutional academic integrity guidelines.
 
----
+
 
 # Contributions & Feedback
 
 For feedback or improvements, feel free to open an issue or submit a pull request.  
 All suggestions and contributions are appreciated. You may also contact the author for further details.
 
----
+
 
 # Contact
 
