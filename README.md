@@ -30,25 +30,20 @@ Contains the revised and finalized version of the project after incorporating im
 
 
 
-# Project Objectives
+# Branching Strategy
 
-- To analyze a real-world healthcare system using SDLC concepts  
-- To compare SDLC models such as Waterfall, Incremental, and Spiral  
-- To study requirements engineering and risk management in healthcare systems  
+The main branch contains the stable version of the project report. A separate branch was created to work on updates and improvements to the documentation. Once the revisions were completed and reviewed, the changes were merged back into the main branch.
 
-
+This approach helps in understanding basic version control concepts such as branching, merging, and document versioning, even in a documentation-based project without source code.
 
 # Academic Declaration
 
 This project is created strictly for **academic purposes** and follows institutional academic integrity guidelines.
 
-
-
 # Contributions & Feedback
 
 - For feedback or improvements, open an issue or submit a pull request.
 - We appreciate all contributions. Contact us for more details.
-
 
 
 # Contact
@@ -61,7 +56,6 @@ For any questions or clarifications, feel free to reach out:
    Associate Professor  
    Department of Information Science and Technology  
    NMAM Institute of Technology, Nitte, Karnataka, India  
-
 - 📧 **Email:** amanhegde2020@gmail.com  
 - 📌 **GitHub Profile:** Aman-Hegde
 
